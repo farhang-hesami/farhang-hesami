@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhang</h1>
 <h3 align="center">A passi I am a mobile app developer and Flutter developer.onate frontend developer</h3>
 
-<img align = "right" alt= "farhang" width = "400" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align = "right" alt= "farhang" width = "400" src = "https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhang-hesami&label=Profile%20views&color=0e75b6&style=flat" alt="farhang-hesami" /> </p>
 
 - 🌱 I’m currently learning **kotlin, Harward cs50x,Harward Ai,Harward Cs50p**
